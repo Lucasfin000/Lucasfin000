@@ -1,47 +1,41 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lucas
-=============================================================================================================================
+<h1 align="center">Hi (https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Lucas</h1>
+<h3 align="center">Roblox exploit and script developer</h3>
 
-Roblox exploit and script developer
------------------------------------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasfin000&label=Profile%20views&color=0e75b6&style=flat" alt="lucasfin000" /> </p>
 
-I have made a ton of software to roblox exploits to roblox scripts my most popular one is chargedx a roblox executor i made so people can cheat on roblox.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasfin000" alt="lucasfin000" /></a> </p>
 
-* 🌍  I'm based in USA
-* ✉️  You can contact me at [Lucas!#9935](mailto:Lucas!#9935)
-* 🚀  I'm currently working on [Orbit Universe](http://orbituniverse.com)
-* 🧠  I'm learning C#
-* 🤝  I'm open to collaborating on Roblox exploits
-* ⚡  https://discord.gg/9KR5vUU4X3
+- 🌌 I’m currently working on [Space Hub](https://github.com/Lucasfin000/SpaceHub)
 
-<a href="https://www.github.com/Lucasfin000" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Lucasfin000?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+- 🌱 I’m currently learning **C#, C++, Java, and HTML**
 
-### Skills
+- 🚀 I’m looking to help people with [roblox exploits](https://github.com/Lucasfin000/ChargedX)
 
+- 🤝 I’m looking for help with [Microsoft Points Autofarmer](https://github.com/Lucasfin000/Microsoft-points-autofarmer)
 
+- 👨‍💻 All of my projects are available at [https://orbituniverse.com](https://orbituniverse.com)
+
+- 📝 I regularly update ChargedX on my server [https://discord.gg/W8Efg5GkFN](https://discord.gg/W8Efg5GkFN)
+
+- 💬 Ask me about **ChargedX**
+
+- 📫 How to reach me **Lucas!#9935**
+
+- 📄 Join my roblox group [https://www.roblox.com/groups/7910596/Phantom-Studios-Official](https://www.roblox.com/groups/7910596/Phantom-Studios-Official)
+
+- ⚡ About ChargedX **It is a super powerful multi api executor for roblox**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.youtube.com/c/lucasfin000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lucasfin000" height="30" width="40" /></a>
+<a href="https://discord.gg/W8Efg5GkFN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="W8Efg5GkFN" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-### Socials
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasfin000&show_icons=true&locale=en&layout=compact" alt="lucasfin000" /></p>
 
-<p align="left"> <a href="https://discord.com/users/Lucas!#9935" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Lucasfin000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/lucasfin000" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasfin000&show_icons=true&locale=en" alt="lucasfin000" /></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Lucasfin000"><img src="https://github-readme-stats.vercel.app/api?username=Lucasfin000&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="Lucasfin000's GitHub stats" /></a>
-
-<a href="http://www.github.com/Lucasfin000"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucasfin000&stroke=ffffff&background=171717&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Lucasfin000"><img src="https://activity-graph.herokuapp.com/graph?username=Lucasfin000&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Lucasfin000" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasfin000&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Lucasfin000/SpaceHub" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasfin000&repo=SpaceHub&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/Lucasfin000/ChargedX" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucasfin000&repo=ChargedX&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasfin000&" alt="lucasfin000" /></p>
