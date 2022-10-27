@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">Roblox exploit and script developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasfin000&label=Profile%20views&color=0e75b6&style=flat" alt="lucasfin000" /> </p>
+<p align="left"> <img src="(https://cdn.discordapp.com/attachments/1028334669328023562/1035303248782970880/spacehubbanner2.png)" alt="lucasfin000" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasfin000" alt="lucasfin000" /></a> </p>
 
