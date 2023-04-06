@@ -15,15 +15,15 @@
 
 - 👨‍💻 All of my projects are available at [https://orbituniverse.com](https://orbituniverse.com)
 
-- 📝 I regularly update ChargedX on my server [https://discord.gg/W8Efg5GkFN](https://discord.gg/W8Efg5GkFN)
+- 📝 I regularly update Orbit on my server [https://discord.gg/orbituniverse](https://discord.gg/orbituniverse)
 
-- 💬 Ask me about **ChargedX**
+- 💬 Ask me about **SpaceHub**
 
 - 📫 How to reach me **Lucas!#9935**
 
 - 📄 Join my roblox group [https://www.roblox.com/groups/7910596/Phantom-Studios-Official](https://www.roblox.com/groups/7910596/Phantom-Studios-Official)
 
-- ⚡ About ChargedX **It is a super powerful multi api executor for roblox**
+- ⚡ About Orbit **It is a super powerful multi api executor for roblox**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
