@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="[https://www.youtube.com/c/lucasfin000](https://www.youtube.com/channel/UCefZrG9dlfM5JNVRi4XU-sg)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lucasfin000" height="30" width="40" /></a>
-<a href="https://discord.gg/W8Efg5GkFN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="W8Efg5GkFN" height="30" width="40" /></a>
+<a href="https://discord.gg/orbituniverse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="W8Efg5GkFN" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
