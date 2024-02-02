@@ -10,7 +10,7 @@
 </div>
 
 
-<img align="right" height="150" src="https://media.tenor.com/bpnF-T9BYwEAAAAC/tristan-tate-cigar.gif"  />
+<img align="right" height="150" src="https://1cheats.com/uploads/monthly_2024_01/smiling-javi-gutierrez.thumb.gif.f3dda6b8c26ae5cf0d99479971641120.gif"  />
 
 
 <div align="left">
@@ -103,13 +103,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="30" alt="webflow logo"  />
 </div>
 
-###
-</div>
-<div align="center">
-  <a href="nezurai" target="_blank">
-    <img src="https://1cheats.com/uploads/monthly_2024_01/smiling-javi-gutierrez.thumb.gif.f3dda6b8c26ae5cf0d99479971641120.gif" height="35" alt="discord logo"  />
-  </a>
-</div>
 
 ###
 
