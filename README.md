@@ -8,7 +8,7 @@
 </div>
 <img src="https://cdn.discordapp.com/attachments/981267720232382525/1188147700898742302/real.png" alt="1Cheats" />
 </div>
-###
+
 
 <img align="right" height="150" src="https://media.tenor.com/bpnF-T9BYwEAAAAC/tristan-tate-cigar.gif"  />
 
@@ -104,7 +104,7 @@
 </div>
 
 ###
-
+</div>
 <div align="center">
   <a href="nezurai" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
