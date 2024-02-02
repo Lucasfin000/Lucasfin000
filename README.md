@@ -12,7 +12,6 @@
 
 <img align="right" height="150" src="https://media.tenor.com/bpnF-T9BYwEAAAAC/tristan-tate-cigar.gif"  />
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -117,4 +116,4 @@
 <br clear="both">
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-###
+
