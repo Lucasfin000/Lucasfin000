@@ -10,8 +10,6 @@
 </div>
 
 
-<img align="right" height="200" src="https://1cheats.com/uploads/monthly_2024_01/smiling-javi-gutierrez.thumb.gif.f3dda6b8c26ae5cf0d99479971641120.gif"  />
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
