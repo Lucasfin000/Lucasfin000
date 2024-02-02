@@ -107,7 +107,7 @@
 </div>
 <div align="center">
   <a href="nezurai" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://1cheats.com/uploads/monthly_2024_01/smiling-javi-gutierrez.thumb.gif.f3dda6b8c26ae5cf0d99479971641120.gif" height="35" alt="discord logo"  />
   </a>
 </div>
 
