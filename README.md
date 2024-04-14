@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucasfin000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<img src="[https://1cheats.com/uploads/monthly_2024_04/774222905_Comp_1_2(2).gif.9137da5f55f02eecfbdf071995822a48.gif](https://1cheats.com/uploads/monthly_2024_04/774222905_Comp_1_2(2).gif.9137da5f55f02eecfbdf071995822a48.gif)" alt="1Cheats" />
+<img src="https://1cheats.com/uploads/monthly_2024_04/774222905_Comp_1_2(2).gif.9137da5f55f02eecfbdf071995822a48.gif" alt="1Cheats" />
 </div>
 
 
