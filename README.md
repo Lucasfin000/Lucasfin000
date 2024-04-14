@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Lucasfin000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucasfin000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-<img src="https://cdn.discordapp.com/attachments/981267720232382525/1188147700898742302/real.png?ex=65e34bc6&is=65d0d6c6&hm=75355e09d053fc852cf3b9d172aabcccac9e5586d70e2178eaf8f17d78844f52&=" alt="1Cheats" />
+<img src="https://1cheats.com/uploads/monthly_2024_04/774222905_Comp_1_2(2).gif.9137da5f55f02eecfbdf071995822a48.gif" alt="1Cheats" />
 </div>
 
 
